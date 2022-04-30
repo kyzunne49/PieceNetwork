@@ -1,0 +1,21 @@
+{
+  "name": "piecenetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "cheerio": "^1.0.0-rc.10",
+    "fetch": "^1.1.0",
+    "moment": "^2.29.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.2.0"
+  }
+}
